@@ -29,10 +29,6 @@ The Serverless Power Calculator is designed to demonstrate a practical implement
 
 To deploy this application to AWS, you will need to set up the respective AWS services and configure them accordingly. Replace the placeholder URLs and ARNs in the provided code with your AWS resources.
 
-## Contributions
-
-Contributions are welcome. If you would like to contribute to this project, please fork the repository and submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
